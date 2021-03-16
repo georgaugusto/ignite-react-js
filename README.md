@@ -21,9 +21,9 @@ O Ignite é um programa feito pela [Rocketseat](https://rocketseat.com.br) de ac
 - [01 - Conceitos do React](https://github.com/georgaugusto/ignite-react-js)
 - [02 - Componentizando a aplicação](https://github.com/georgaugusto/ignite-react-js)
 
-**Semana 2**
+**Semana 2 - Primeira aplicação web com ReactJS**
 <p align="justify">
-  Nesse semana criaremos a estrutura base de uma aplicação React utilizando ferramentas como Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh e descobriremos conceitos importantes do React como componentes, propriedades, estados e hooks além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
+  Nesse módulo construiremos uma aplicação front-end web completa utilizando conceitos e ferramentas importantes do ecossistema React como Styled Components, MirageJS, Context API, hooks, Axios e muito mais.
 </p>
 
 - [01 - Criando um hook de carrinho de compras](https://github.com/georgaugusto/ignite-react-js)

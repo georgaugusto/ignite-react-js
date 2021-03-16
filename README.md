@@ -30,3 +30,7 @@ Desafios da semana:
 
 - [01 - Criando um hook de carrinho de compras](https://github.com/georgaugusto/ignite-react-js)
 - [02 - Refactoring de classes e typescript](https://github.com/georgaugusto/ignite-react-js)
+
+---
+
+Feito com 💜 &nbsp;por Georg Augusto Schlegel 👋 &nbsp;[Mande um Aló](https://www.linkedin.com/in/georgaugusto/)

@@ -1,4 +1,4 @@
-<img alt="Ignite ReactJS" src="public/logoImg.svg" />
+<img alt="Ignite ReactJS" src="public/ignite-react.png" />
 <h2 align="center">
   Ignite ReactJS
 </h2>

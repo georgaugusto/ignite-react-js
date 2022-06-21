@@ -1,6 +1,6 @@
 <img alt="Ignite ReactJS" src="public/ignite-react.png" />
 <h2 align="center">
-  Ignite ReactJS 2022 - Em andamento!
+  Ignite ReactJS (2022) - Em andamento!
 </h2>
 
 <p align="center">

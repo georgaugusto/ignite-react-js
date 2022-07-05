@@ -13,7 +13,7 @@ O Ignite é um programa feito pela [Rocketseat](https://rocketseat.com.br) de ac
 
 ## Jornada
 
-**Semana 1 - Fundamentos do ReactJS**
+[**Semana 1 - Fundamentos do ReactJS**](https://github.com/georgaugusto/01-fundamentos-reactjs)
 <p align="justify">
   Nesse semana criaremos uma aplicação React utilizando o Vite e aprenderemos sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
 </p>

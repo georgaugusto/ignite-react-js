@@ -21,7 +21,7 @@ Desafios da semana:
 
 - [01 - Praticando Conceitos](https://github.com/georgaugusto/desafio-01-praticando-os-conceitos-do-reactjs) ✔️
 
-### [Semana 2 - Criando SPAs com ReactJS](https://github.com/georgaugusto/ignite-react-js) ❌
+### [Semana 2 - Criando SPAs com ReactJS](https://github.com/georgaugusto/02-ignite-timer) ✔️
 <p align="justify">
   Nesse semana construimos uma aplicação completa com roteamento e diversos conceitos importantes do ecossistema React como ContextAPI, useReducer, immer e muito mais.
 </p>

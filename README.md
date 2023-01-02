@@ -29,7 +29,7 @@ Desafios da semana:
 
 - [01 - Coffee Delivery](https://github.com/georgaugusto/ignite-react-js) ❌
 
-### [Semana 5 - Criando SPAs com ReactJS](https://github.com/georgaugusto/05-ignite-design-system) ✔️
+### [Semana 5 - Design System](https://github.com/georgaugusto/05-ignite-design-system) ✔️
 <p align="justify">
   Nesse semana construimos um Design System, entendendemos como documentar os componentes do React e descobrimos diversas ferramentas que nos estão ajudando desde a implementação do Design System até sua publicação, como o Storybook, o changesets e muito mais.
 </p>
